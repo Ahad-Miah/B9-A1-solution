@@ -272,7 +272,39 @@ body{
     top:40%;
     left:60%;
 }
-
-
 /* sixth section ends */
+/* seventh section starts */
+.seventh-section-container{
+    width: 1320px;
+    height: 1163px;
+    margin:0px auto;
+    margin-bottom: 92px;
+}
+.seventh-section-content h6{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.seventh-section-content h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.seventh-section-content p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+.seventh-section-content{
+    margin-bottom: 30px;
+}
+.seventh-section-images{
+    display:flex;
+    flex-wrap: wrap;
+    gap:24px;
+}
+/* Seventh section ends */
 
