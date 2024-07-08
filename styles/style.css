@@ -121,5 +121,39 @@ body{
     height: 100%;
 }
 /* Thirs section ends */
+/* Fourth section starts */
+.fourth-section-container{
+    width: 1320px;
+    height: 482px;
+    margin:0px auto;
+    border-radius: 16px;
+    margin-bottom: 92px;
+   background-color: antiquewhite;
+   background-image:linear-gradient(180.00deg, rgba(233, 210, 210, 0.856),rgba(243, 243, 243, 0.925) 100%);
+   align-items: center;
+   justify-content: center;
+}
+.fourth-section-content{
+    width:549px;
+    height:168px;
+    text-align: center;
+}
+.fourth-section-content p{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+}
+.fourth-section-content span{
+    color:red;
+}
+.fourth-section-content button{
+    background-color: red;
+    padding:10px;
+    margin-top: 20px;
+    border:none;
+    border-radius:7px;
+    color: white;
+}
+/* Fourth section ends */
 
 
