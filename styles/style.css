@@ -307,4 +307,54 @@ body{
     gap:24px;
 }
 /* Seventh section ends */
+/* eight section starts */
+.eighth-section-container{
+    width: 1320px;
+    height: 616px;
+    border:2px solid red;
+    margin:0px auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 92px;
+}
+.eighth-section-content h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.eighth-section-content p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+.eighth-section-input input[type="email"]{
+    color: rgba(7, 2, 17, 0.3);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: white;
+    height: 40px;
+    width:350px;
+    border:none;
+    padding-left:70px;
+    border-radius: 40px 0px 0px 40px;
+
+}
+.eighth-section-input input[type="button"]{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    height: 40px;
+    width:150px;
+    background-color: red;
+    border-radius:0px 40px 40px 0px;
+    margin-left:-3.5px;
+    border:none;
+}
+/* eight section ends */
 
